@@ -1,0 +1,1 @@
+#UWP_QRReader_ZhingLibrary
